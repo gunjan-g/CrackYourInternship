@@ -1,6 +1,5 @@
 class RandomizedCollection {
 public:
-    
     vector<pair<int, int>>a;
     unordered_map<int, vector<int>> mp;
     
