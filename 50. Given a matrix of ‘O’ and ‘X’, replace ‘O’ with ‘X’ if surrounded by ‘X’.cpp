@@ -1,7 +1,5 @@
 #include<iostream>
 using namespace std;
-
-// Size of given matrix is M X N
 #define M 6
 #define N 6
 
